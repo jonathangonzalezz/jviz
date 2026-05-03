@@ -27,8 +27,8 @@ pak::pak("jonathangonzalezz/jviz")
 ``` library(Jviz)
 quick_scatter(mtcars,wt,mpg)
 ```
-##Dependencies
+## Dependencies
 - ggplot2
 
-##License
+## License
 CC0 1.0 Universal
